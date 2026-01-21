@@ -18,7 +18,4 @@ The **Cafe Mocha Billing System** is a Java-based restaurant billing application
 ## System Users
 - **Admin**: Manages customers, menu items, orders, and billing
 
-## How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/cafe-mocha-billing-system.git
+
